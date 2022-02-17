@@ -1,7 +1,10 @@
 # 💫About Me :
 👋 Hi, I’m Katlego
+
 👀 I’m interested in... building software to better society
+
 🌱 I’m currently learning flutter
+
 💞️ I’m looking to collaborate on... anything that I think would benefit society.
 
 ## 🌐Socials
