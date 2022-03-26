@@ -21,4 +21,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=theekatlego&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+<a href="https://app.daily.dev/theekatlego"><img src="https://api.daily.dev/devcards/9399e189524d4db3ac243f02448782e3.png?r=yku" width="400" alt="KT's Dev Card"/></a>
+
 [![](https://visitcount.itsvg.in/api?id=theekatlego&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
